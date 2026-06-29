@@ -43,3 +43,12 @@ bash examples/g2po_trainer/run_alfworld.sh
 ## Acknowledge
 
 Codes implementations are based on  [verl-agent](https://github.com/langfengQ/verl-agent). Thanks for their great contributions!
+### Reference
+```
+@article{wang2026group,
+  title={Group-Graph Policy Optimization for Long-Horizon Agentic Reinforcement Learning},
+  author={Wang, Yunan and Song, Minghui and Zhang, Zihan and Huang, Shaohan and Huang, Haizhen and Wei, Furu and Deng, Weiwei and Sun, Feng and Zhang, Qi},
+  journal={arXiv preprint arXiv:2606.22995},
+  year={2026}
+}
+```
